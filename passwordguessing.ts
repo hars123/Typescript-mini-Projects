@@ -3,3 +3,4 @@ let usernumber = prompt("Enter your number ");
 while(usernumber !== originaalnumber){
  usernumber = prompt("try again");
 }
+console.log("Welcome sir");
