@@ -1,2 +1,2 @@
 # Typescript-mini-Projects
-Some Typescript mini projects that helps you learning Types. 
+Some Typescript mini projects that helps you learning Typescript. 
