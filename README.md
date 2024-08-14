@@ -1,1 +1,1 @@
-C and Typescript mini Projects.
+C and Typescript mini Projects..
